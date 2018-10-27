@@ -7,7 +7,7 @@ Source Host           : localhost:3306
 Source Database       : guns
 
 Target Server Type    : MYSQL
-Target Server Version : 50721
+Target Server Version : 50721a
 File Encoding         : 65001
 
 Date: 2018-06-26 23:10:40
